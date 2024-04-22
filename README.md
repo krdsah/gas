@@ -1,5 +1,5 @@
 # GAS
-Tool buat floodinv chat penipu undangan pernikahan apk, yang disebar melalui whatsapp pribadi yang maupun grup.
+Tool buat fl**ding chat penipu undangan pernikahan apk, yang disebar melalui whatsapp pribadi yang maupun grup.
 
 # Usage
 
